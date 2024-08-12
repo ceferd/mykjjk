@@ -23,6 +23,7 @@
             android:textSize="24sp"
             android:textStyle="bold"
             />
+
         <EditText
             android:id="@+id/etFullName"
             android:layout_width="match_parent"
